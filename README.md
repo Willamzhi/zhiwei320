@@ -1,2 +1,2 @@
 # zhiwei320
-hello,my names william,chinese name is zhiwei
+Hello,my name is william,chinese name is zhiwei
